@@ -13,3 +13,4 @@
 - Pour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés
 >>>>>>> parent of 8515405 (Ajout de la dernière étape à la recette)
 j'ai déjà des conflits
+J'ai encore des conflits
